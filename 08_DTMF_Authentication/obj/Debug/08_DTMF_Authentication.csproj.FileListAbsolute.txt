@@ -1,0 +1,8 @@
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\obj\Debug\08_DTMF_Authentication.csproj.CoreCompileInputs.cache
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\bin\Debug\08_DTMF_Authentication.exe.config
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\bin\Debug\08_DTMF_Authentication.exe
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\bin\Debug\08_DTMF_Authentication.pdb
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\bin\Debug\OzekiSDK.dll
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\obj\Debug\08_DTMF_Authentication.csprojResolveAssemblyReference.cache
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\obj\Debug\08_DTMF_Authentication.exe
+F:\Softwares\Ozeki\Ozeki SDK\Examples\VoIP\03_IVR\08_DTMF_authentication\08_DTMF_Authentication\obj\Debug\08_DTMF_Authentication.pdb
